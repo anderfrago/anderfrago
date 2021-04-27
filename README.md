@@ -10,7 +10,7 @@ Espero dut gustokoa izatea  💞️
  
  <hr />
  
- *Edukiari gainbegiratu nahi baduzu hona hemen aurrerapen bat.*
+ *Edukia gainbegiratu nahi baduzu hona hemen aurrerapen bat.*
  
 **Web garapena**
 
