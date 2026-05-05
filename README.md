@@ -24,25 +24,27 @@ Industria-softwarearen garapenaren eta irakaskuntzaren arteko zubiak eraikitzen.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Ignition](https://img.shields.io/badge/Ignition-Inductive_Automation-orange?style=for-the-badge)
 
+#### **Sistemak, Cloud eta Networking**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23040303.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 #### **Data Science & Learning Path (Etengabeko ikaskuntzan)**
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-#### **Sareak eta Sistemak**
-![Cisco](https://img.shields.io/badge/cisco-%23040303.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
 ---
 
-### 👨‍🏫 Irakaskuntza
-Irakasle gisa, hainbat modulutako baliabideak kudeatzen ditut Cuatrovientos Institutuan:
+### 👨‍🏫 Irakaskuntza Jarduera
+Irakasle gisa, hainbat modulutako baliabideak kudeatzen ditut Cuatrovientos Institutuan (PAM/DAM eta MSEE/ASIR):
 * **Web Garapena:** Frontend arkitektura eta framework modernoak.
 * **Interfazeen Garapena:** UX/UI printzipioak, Sass eta Bootstrap.
 * **Zerbitzu eta Prozesuen Garapena:** Programazio konkurrentea eta sareko zerbitzuak Javan.
-* **Automatizazioa:** Python script-ak kudeaketa akademikorako eta datu-migraziorako.
+* **Sistemak:** Administrazioa eta automatizazioa (Python script-ak).
 
 ---
 
