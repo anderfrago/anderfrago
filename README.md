@@ -40,7 +40,7 @@ Industria-softwarearen garapenaren eta irakaskuntzaren arteko zubiak eraikitzen.
 ---
 
 ### 👨‍🏫 Irakaskuntza Jarduera
-Irakasle gisa, hainbat modulutako baliabideak kudeatzen ditut Cuatrovientos Institutuan (PAM/DAM eta MSEE/ASIR):
+Irakasle gisa, hainbat modulutako baliabideak kudeatzen ditut Cuatrovientos Institutuan (DAM eta ASIR):
 * **Web Garapena:** Frontend arkitektura eta framework modernoak.
 * **Interfazeen Garapena:** UX/UI printzipioak, Sass eta Bootstrap.
 * **Zerbitzu eta Prozesuen Garapena:** Programazio konkurrentea eta sareko zerbitzuak Javan.
