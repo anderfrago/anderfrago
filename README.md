@@ -37,7 +37,7 @@ Industria-softwarearen garapenaren eta irakaskuntzaren arteko zubiak eraikitzen.
 
 ---
 
-### 👨‍🏫 Irakaskuntza eta Lidergoa
+### 👨‍🏫 Irakaskuntza
 Irakasle gisa, hainbat modulutako baliabideak kudeatzen ditut Cuatrovientos Institutuan:
 * **Web Garapena:** Frontend arkitektura eta framework modernoak.
 * **Interfazeen Garapena:** UX/UI printzipioak, Sass eta Bootstrap.
